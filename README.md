@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/H0bdKKHKsj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Here's a walkthrough of the posting feature implemented in Part1, but was not recorded: 
+Here's a walkthrough of the posting feature implemented in Part 1, but were not recorded: 
 <img src='http://g.recordit.co/mZ6NfM9VaE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
